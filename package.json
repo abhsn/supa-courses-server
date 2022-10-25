@@ -1,14 +1,17 @@
 {
-  "name": "b610-lerning-platform-server-side-abhsn",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "github.com/programming-hero-web-course1/b610-lerning-platform-server-side-abhsn",
-  "author": "Abid Hasan",
-  "license": "GPLv3",
-  "dependencies": {
-    "express": "^4.18.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
-  }
+	"name": "b610-lerning-platform-server-side-abhsn",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": "github.com/programming-hero-web-course1/b610-lerning-platform-server-side-abhsn",
+	"author": "Abid Hasan",
+	"license": "GPLv3",
+	"dependencies": {
+		"express": "^4.18.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	}
 }
