@@ -15,4 +15,8 @@ app.get('/api/courses', (req, res) => {
 	res.send(courses);
 });
 
+app.get('/api/course/:id', (req, res) => {
+
+});
+
 app.listen(port, () => console.log("Listening on port", port));
