@@ -1,0 +1,44 @@
+[
+	{
+		"id": "1",
+		"name": "Introduction to C Language",
+		"author": "Dummy Text",
+		"rating": "4.5",
+		"price": "13.99"
+	},
+	{
+		"id": "2",
+		"name": "Python for beginners",
+		"author": "Dummy Text",
+		"rating": "4.3",
+		"price": "12.99"
+	},
+	{
+		"id": "3",
+		"name": "Advance Rust Course",
+		"author": "Dummy Text",
+		"rating": "4.8",
+		"price": "19.99"
+	},
+	{
+		"id": "4",
+		"name": "JavaScript Mastery",
+		"author": "Dummy Text",
+		"rating": "4.2",
+		"price": "12.99"
+	},
+	{
+		"id": "5",
+		"name": "Go for beginners",
+		"author": "Dummy Text",
+		"rating": "4.8",
+		"price": "19.99"
+	},
+	{
+		"id": "6",
+		"name": "C++ for absolute beginners",
+		"author": "Dummy Text",
+		"rating": "4.8",
+		"price": "19.99"
+	}
+]
