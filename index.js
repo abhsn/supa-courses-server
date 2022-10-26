@@ -16,7 +16,9 @@ app.get('/api/courses', (req, res) => {
 });
 
 app.get('/api/course/:id', (req, res) => {
-
+	const id = req.params.id;
+	const filtered = courses.filter(course => course.id === id);
+	res.send(filtered);
 });
 
 app.listen(port, () => console.log("Listening on port", port));
